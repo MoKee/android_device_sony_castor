@@ -1,4 +1,4 @@
-# Copyright (C) 2014 The CyanogenMod Project
+# Copyright (C) 2014 The MoKee OpenSource Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,4 +19,4 @@ include device/sony/castor_windy/BoardConfigCommon.mk
 TARGET_OTA_ASSERT_DEVICE := SGP521,SGP541,SGP551,castor
 
 # Kernel properties
-TARGET_KERNEL_CONFIG := cm_shinano_castor_defconfig
+TARGET_KERNEL_CONFIG := mk_shinano_castor_defconfig
